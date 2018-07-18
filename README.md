@@ -10,6 +10,15 @@ A user can nagivate from button to button.
 Select a giphy by clicking directly on it. It should animate the giphy(play the giphy).
 Click again on the same giphy to stop the animation(stop the giphy).
 
+Technology Used:
+HTML
+CSS
+BOOTSTRAP
+JQuery
+JavaScript
+API Key/AJAX
 
 Authors: 
 Nivedita Nagar
+
+Link to the web application:  https://niveditanagar.github.io/GifTastic/
